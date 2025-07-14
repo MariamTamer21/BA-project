@@ -1,4 +1,4 @@
-# BA-project
+# Interactive Sales Dashboard
 Our project encompassed a wide array of analytical techniques, including Descriptive, Exploratory, and Predictive Data Analysis, along with advanced Data Visualization techniques. Leveraging the power of Tableau, Power BI, and Excel, we developed comprehensive dashboards for Nike, Adidas, and Puma, providing deep insights into their sales data.
 
 🔍 Key Features:
